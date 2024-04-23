@@ -3,6 +3,7 @@ layout: post
 title:  "Azure and Terraform: Static Web Site - Global Azure Greece 2024"
 categories: [ Jekyll, tutorial ]
 image: assets/images/3.jpg
+tags: [featured]
 ---
 There are lots of ways to setup static website. Blogs could be such a case as well as subsite to host media files or other other files.
 

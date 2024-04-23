@@ -3,11 +3,9 @@ layout: post
 title:  "Azure and Terraform: Static Web Site - Global Azure Greece 2024"
 categories: [ Jekyll, tutorial ]
 image: assets/images/3.jpg
-tags: [featured]
+tags: [sticky]
 ---
 There are lots of ways to setup static website. Blogs could be such a case as well as subsite to host media files or other other files.
-
-
 
 ## Solution Architecture - Azure Resources
 
@@ -26,9 +24,8 @@ Use of terraform-docs to generate README file
 Visualization of code with graphviz
 
 ### Static Web Site CSS Templates
-Presented CSS Templates from https://www.free-css.com/free-css-templates/page296/spering
+Presented CSS Templates from www.free-css.com spering template
 and changed according to my theme 
-
 
 ![walking]({{ site.baseurl }}/assets/images/8.jpg)
 

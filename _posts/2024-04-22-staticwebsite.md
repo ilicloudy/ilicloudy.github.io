@@ -6,7 +6,7 @@ categories: [ Articles, Tutorial ]
 image: assets/images/3.jpg
 tags: [sticky]
 ---
-There are lots of ways to setup static website. Blogs could be such a case as well as subsite to host media files or other other files.
+There are lots of ways to setup static website. Blogs could be such a case as well as subsite to host media files or even log files.
 
 
 ## Solution Architecture

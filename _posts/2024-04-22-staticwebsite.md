@@ -7,7 +7,7 @@ image: assets/images/3.jpg
 tags: [sticky]
 ---
 There are lots of ways to setup static website. Blogs could be such a case as well as subsite to host media files or even log files.
-
+[My Github Repo](https://github.com/ilicloudy/globalazure2024.git)
 
 ## Solution Architecture
 
@@ -49,3 +49,4 @@ Tools Links:
 [Terraform-docs](https://terraform-docs.io/user-guide/installation/) 
 
 [terraform graph and visualization](https://dreampuf.github.io/GraphvizOnline) 
+

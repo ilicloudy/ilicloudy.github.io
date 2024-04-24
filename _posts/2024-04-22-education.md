@@ -1,7 +1,8 @@
 ---
 layout: post
 title:  "Azure and Terraform: Static Web Site - Global Azure Greece 2024"
-categories: [ Jekyll, tutorial ]
+author: iliana
+categories: [ Articles, Tutorial ]
 image: assets/images/3.jpg
 tags: [sticky]
 ---

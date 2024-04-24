@@ -42,14 +42,10 @@ and changed according to my theme
 
 Tools Links: 
 
-https://github.com/terraform-linters/tflint
+[TFlint](https://github.com/terraform-linters/tflint)
 
-https://www.checkov.io/1.Welcome/Quick%20Start.html
+[Checkov](https://www.checkov.io/1.Welcome/Quick%20Start.html)
 
-https://terraform-docs.io/user-guide/installation/ 
+[Terraform-docs](https://terraform-docs.io/user-guide/installation/) 
 
-terraform graph command - https://dreampuf.github.io/GraphvizOnline 
-
-## Demo
-
-Short presentation of the demo site! Here's a standard YouTube embed code as an example:
+[terraform graph and visualization](https://dreampuf.github.io/GraphvizOnline) 

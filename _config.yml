@@ -35,7 +35,7 @@ defaults:
     values:
       layout: post
       author: iliana
-      avatar: /assets/images/myphotoresized.jpg
+      avatar: /assets/images/avatar7.jpg
       
   # all pages
   - scope:

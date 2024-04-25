@@ -50,3 +50,8 @@ Tools Links:
 
 [terraform graph and visualization](https://dreampuf.github.io/GraphvizOnline) 
 
+## Demo
+
+Get a glimpse of the result:
+
+<p><iframe style="width:100%;" height="315" src="https://www.youtube.com/embed/EfGk3vP7WrQ?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe></p>

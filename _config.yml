@@ -21,7 +21,7 @@ authors:
     iliana:
       name:           Iliana
       site:           https://ilicloudy.github.io
-      avatar:         /assets/images/avatar7.jpg
+      avatar:         '/assets/images/avatar7.jpg'
       bio:            "Blogger, techie into Cloud and IaC!"
       email:          ili_tzima@gmail.com
       twitter:        https://twitter.com/ili_tzima
@@ -34,8 +34,8 @@ defaults:
       path: "_posts"
     values:
       layout: post
-      author: iliana
-      avatar: /assets/images/avatar7.jpg
+      author: Iliana
+      avatar: '/assets/images/avatar7.jpg'
       
   # all pages
   - scope:

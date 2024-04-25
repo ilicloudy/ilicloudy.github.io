@@ -1,8 +1,8 @@
 # Site
 name: 'IliCloudy'
 description: 'IliCloudy is a tech blog for Cloud and IaC awesome people!'
-logo: 'assets/images/logo.png'
-favicon: 'assets/images/favicon.ico'
+logo: '//assets/images/logo.png'
+favicon: '//assets/images/favicon.ico'
 baseurl: '/'
 #disqus: 'ilicloudygit'
 email: 'ili.tzima@gmail.com'
@@ -21,7 +21,7 @@ authors:
     iliana:
       name:           Iliana
       site:           https://ilicloudy.github.io
-      avatar:         '/assets/images/avatar7.jpg'
+      avatar:         '//assets/images/avatar7.jpg'
       bio:            "Blogger, techie into Cloud and IaC!"
       email:          ili_tzima@gmail.com
       twitter:        https://twitter.com/ili_tzima
@@ -35,7 +35,7 @@ defaults:
     values:
       layout: post
       author: Iliana
-      avatar: '/assets/images/avatar7.jpg'
+      avatar: '//assets/images/avatar7.jpg'
       
   # all pages
   - scope:
